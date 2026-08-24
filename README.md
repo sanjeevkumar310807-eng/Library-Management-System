@@ -18,14 +18,51 @@ To develop the Library Management System using Star UML
 5.The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
 
 6.It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
+
+# USE CASE DIAGRAM
+
+A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
+
+UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
+
+Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+# UML use case diagrams are ideal for:
+
+Representing the goals of system-user interactions
+
+Defining and organizing functional requirements in a system
+
+Specifying the context and requirements of a system
+
+→ Modeling the basic flow of events in a sina use case.
+
+
+
+<img width="1039" height="815" alt="Screenshot 2025-09-15 212858" src="https://github.com/user-attachments/assets/7aa10075-5bb4-4ba0-a7de-97036a159873" />
+
+# CLASS DIAGRAM
+
+The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
+
+among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
+
+Class diagrams offer a number of bend is for any organization. Use UML class diagrams to:
+
+Better understand the general overview of the schematics of an application.
+
+Visually express any specific needs of a system and disseminate that information throughout the business.
+
+Create detailed charts that…
+
+<img width="1041" height="601" alt="Screenshot 2025-09-15 213005" src="https://github.com/user-attachments/assets/b2fefb18-7fd2-422b-9deb-d7af8dac060e" />
+
+# COMMUNICTION DIAGRAM:
+
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 <img width="894" height="528" alt="Screenshot 2025-09-15 213041" src="https://github.com/user-attachments/assets/2c97fcdf-959a-488e-b436-815604820c16" />
-
-
-
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -36,7 +73,6 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 <img width="983" height="508" alt="Screenshot 2025-09-15 213126" src="https://github.com/user-attachments/assets/2cf93cc2-9e38-4e09-b788-8a16331156c9" />
-
 
 
 
@@ -70,6 +106,7 @@ a new system or to document an existing process. Sequence diagrams are sometimes
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
+
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
 Represent the details of UML use cases.
@@ -81,6 +118,4 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Library Management System was developed using Star UML Software is done successfully.
-
-
 
