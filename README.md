@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220090
+# Name: V Sanjeev kumar 
+# Date: 10/08/2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="899" height="692" alt="image" src="https://github.com/user-attachments/assets/5b5ccab2-81e7-4530-a45e-0ccb0a349c32" />
 
 
 
@@ -57,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="810" height="485" alt="image" src="https://github.com/user-attachments/assets/81189133-e732-4f4b-b200-01ff86d7b1a1" />
 
 
 
@@ -78,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="906" height="566" alt="image" src="https://github.com/user-attachments/assets/a2629ade-7536-4a9e-b390-df72098cc0a7" />
 
 
 
@@ -97,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="720" height="913" alt="image" src="https://github.com/user-attachments/assets/41afc159-8f6c-41d6-86e1-dc3054c8c39e" />
 
 
 
@@ -117,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1071" height="829" alt="image" src="https://github.com/user-attachments/assets/3b32bed8-b870-475d-b8cc-9fcaaf829de9" />
 
 
 
